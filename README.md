@@ -1,10 +1,12 @@
 # hello-world
-where we start
 
 
+# settings.zip
+idea settings
 
+# MybatisPlusGenerator.java
 
-
+# wukong-robot
 1. wukong-robot 项目的一键安装脚本
    https://github.com/musistudio/wukong-robot-install-script
    如果一键安装之后，缺少一些模块，请参照以下链接
